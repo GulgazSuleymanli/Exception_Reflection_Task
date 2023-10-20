@@ -1,0 +1,14 @@
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\bin\Debug\net6.0\Exception_Task.exe
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\bin\Debug\net6.0\Exception_Task.deps.json
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\bin\Debug\net6.0\Exception_Task.runtimeconfig.json
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\bin\Debug\net6.0\Exception_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\bin\Debug\net6.0\Exception_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.AssemblyInfoInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.AssemblyInfo.cs
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.csproj.CoreCompileInputs.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\refint\Exception_Task.dll
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.pdb
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\Exception_Task.genruntimeconfig.cache
+C:\Users\Gulgaz\Desktop\Code Academy\Exception_Reflection\Exception_Task\Exception_Task\obj\Debug\net6.0\ref\Exception_Task.dll
